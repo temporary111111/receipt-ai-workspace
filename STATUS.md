@@ -24,4 +24,4 @@ Updated: 2026-09-29
 
 - Curated final tentative dataset: 900 AI + 900 real.
 - Available source images: 1,095 AI and 986 real.
-- Selection outputs are under `data/receipt_dataset/features/elective3_detector_all/selection_v1`.
+- Selection outputs are under `data/receipt_dataset/features/elective3_full_pool/selection_v1`.
