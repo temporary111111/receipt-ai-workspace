@@ -14,4 +14,7 @@ outputs/
 **/venv/
 **/__pycache__/
 **/.paddlex/
+
+# Program repositories are cloned independently.
+programs/*/
 **/.pytest_cache/
