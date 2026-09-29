@@ -1,0 +1,17 @@
+# Dataset and generated artifacts
+data/
+receipt_dataset/
+outputs/
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Python environments and caches
+**/python_deps/
+**/python_gpu_env/
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.paddlex/
+**/.pytest_cache/
