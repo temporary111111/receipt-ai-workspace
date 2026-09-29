@@ -1,11 +1,11 @@
 workspace: C:/Users/dev/Workspace/school/elective
 data_root: C:/Users/dev/Workspace/school/elective/data/receipt_dataset
 programs:
-  receipt_text_cropper:
-    path: programs/receipt_text_cropper
-  receipt_text_detector:
-    path: programs/receipt_text_detector
-  receipt_elective_feature_extractor:
-    path: programs/receipt_elective_feature_extractor
-  receipt_feature_extractor:
-    path: programs/receipt_feature_extractor
+  receipt-ai-text-cropper-projection:
+    path: programs/receipt-ai-text-cropper-projection
+  receipt-ai-text-cropper-paddleocr:
+    path: programs/receipt-ai-text-cropper-paddleocr
+  receipt-ai-feature-extractor-elective:
+    path: programs/receipt-ai-feature-extractor-elective
+  receipt-ai-feature-extractor-thesis:
+    path: programs/receipt-ai-feature-extractor-thesis

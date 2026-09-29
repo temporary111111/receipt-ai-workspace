@@ -15,10 +15,10 @@ Git history.
 
 ## Independent programs
 
-- `programs/receipt_text_cropper`: projection-based cropper
-- `programs/receipt_text_detector`: PaddleOCR detector and resumable crops
-- `programs/receipt_elective_feature_extractor`: 14-feature Elective table
-- `programs/receipt_feature_extractor`: thesis feature extractor; keep separate
+- `programs/receipt-ai-text-cropper-projection`: projection-based cropper
+- `programs/receipt-ai-text-cropper-paddleocr`: PaddleOCR detector and resumable crops
+- `programs/receipt-ai-feature-extractor-elective`: 14-feature Elective table
+- `programs/receipt-ai-feature-extractor-thesis`: thesis feature extractor; keep separate
 
 ## Current dataset plan
 
